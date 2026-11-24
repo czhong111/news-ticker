@@ -1,0 +1,11 @@
+# 编译产物 / 安装包（体积大，不作为源码提交）
+*.exe
+*.dll
+rustup-init.exe
+
+# 临时 / IDE
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
